@@ -1,0 +1,46 @@
+main{
+font-family: 'inter';
+font-style: normal;
+}
+.part1{
+    border:2px solid black;
+    
+    margin-top:47px;
+    margin-right:47px;
+   margin-left:38px;
+    padding-right:47px;
+    padding-top:47px;
+    padding-left:51px;
+    padding-right:51px;
+    font-family: 'Inter';
+
+}
+.part2{
+    margin-top:47px;
+    margin-right:619px;
+    margin-left:58px;
+    margin-bottom:35px;
+}
+
+.dog1{
+    height:762px;
+    width:1051px;
+   
+    padding-bottom: 34px;
+}
+
+a{
+ font-weight: 400;
+font-Size:25px;
+
+
+}
+.list1{
+   padding-left:20px;;
+}
+.part3{
+    margin-top:35px;
+    margin-right:47px;
+   margin-left:58px;
+   margin-bottom:77px;
+}
